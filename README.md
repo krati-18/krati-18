@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi, I am krati :)
 
 <!--
 **krati-18/krati-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
